@@ -1,0 +1,52 @@
+.step__title {
+    padding-top: 240px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 65px;
+}
+
+.step__para {
+    color: #898CA9;
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+
+.sub__para {
+    color: #898CA9;
+}
+
+.privacy {
+    color: #fff;
+    cursor: pointer;
+}
+
+.transmission {
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.input__email {
+    margin-top: 32px;
+    max-width: 304px;
+    width: 100%;
+    background-color: transparent;
+    box-shadow: inset 0px 0px 30px rgba(255, 255, 255, 0.05), inset 0px 2px 2px rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(40px);
+    padding: 17px 20px;
+    border-image: linear-gradient(225deg, #18C8FF 14.89%, #933FFE 85.85%);
+    border-image-slice: 1;
+
+}
+
+.investing__box--image {
+    padding-top: 80px;
+}
+
+.investing__image {
+    width: 90%;
+}

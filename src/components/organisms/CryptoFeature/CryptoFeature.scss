@@ -1,0 +1,29 @@
+.crypto__header {
+    padding-top: 270px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.crypto__button {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    background: transparent;
+    color: #B982FF;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.crypto__trade-box {
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: #1A1B23;
+    max-width: 1110px;
+    width: 100%;
+}

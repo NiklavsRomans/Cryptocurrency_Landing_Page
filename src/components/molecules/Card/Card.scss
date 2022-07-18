@@ -1,0 +1,33 @@
+.card__box {
+    max-width: 380px;
+    width: 100%;
+    border-radius: 25px;
+    background-color: #1A1B23;
+    padding: 32px;
+    &:hover {
+        transform: scale(1.1);
+        transition: 0.5s ease-in-out;
+    }
+}
+
+.card__title {
+    font-size: 32px;
+    font-weight: 800;
+    color: #fff;
+    padding: 16px 0px;
+}
+
+.card__description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #898CA9;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+.card__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

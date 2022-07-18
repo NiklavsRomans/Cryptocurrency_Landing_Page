@@ -1,0 +1,14 @@
+.cards__view {
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+@media screen and (max-width: 940px) {
+    .cards__view {
+        display: flex;
+        flex-direction: column;
+    }
+}

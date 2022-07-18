@@ -1,0 +1,67 @@
+.crypto__card {
+    max-width: 1110px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 22px;
+    border-bottom: 1px solid #3e3f4d;
+
+}
+
+
+.trade__button {
+    background: transparent;
+    color: #fff;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    margin: auto;
+}
+
+.red {
+    color: red;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.green {
+    color: limegreen;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.coin__title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    max-width: 207px;
+    width: 100%;
+}
+
+.coin__symbol {
+    padding-left: 32px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #B982FF;
+    max-width: 90px;
+    width: 100%;
+}
+
+.coin__price {
+    display: flex;
+    justify-content: flex-end;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    max-width: 230px;
+    width: 100%;
+    padding-right: 32px;
+}

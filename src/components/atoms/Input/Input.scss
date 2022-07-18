@@ -1,0 +1,11 @@
+.input {
+    margin-top: 32px;
+    max-width: 304px;
+    width: 100%;
+    background-color: transparent;
+    box-shadow: inset 0px 0px 30px rgba(255, 255, 255, 0.05), inset 0px 2px 2px rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(40px);
+    padding: 17px 20px;
+    border-image: linear-gradient(225deg, #18C8FF 14.89%, #933FFE 85.85%);
+    border-image-slice: 1;
+}

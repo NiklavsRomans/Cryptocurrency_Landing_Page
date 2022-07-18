@@ -1,0 +1,21 @@
+.button {
+    cursor: pointer;
+    padding: 12px 22px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #fff;
+    border: 1px solid #fff;
+    background: var(--buttonBackground);
+    border: 1px solid var(--buttonBackground);
+}
+
+.button__sign-in {
+    cursor: pointer;
+    padding: 12px 22px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #fff;
+    border: 1px solid #fff;
+   background: transparent;
+   border: 1px solid #fff;
+}
