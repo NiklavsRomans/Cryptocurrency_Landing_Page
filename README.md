@@ -4,6 +4,7 @@
 
 
 This project was made by following Component Driven User Interface. Atomic Design.
+
 Planning to add converter.
 
 Link to the design [HERE](https://www.figma.com/file/tpGf8Cv5AVNWfl29J3KKCk/Cryptocurrency-Landing-Page-Community)
