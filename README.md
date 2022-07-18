@@ -1,3 +1,12 @@
+# React Cryptocurrency landing page.
+
+![Digital Agency GIF](./src/assets/gif/appPreview.gif)
+
+
+This project was made by following Component Driven User Interface. Atomic Design.
+
+Link to the design [HERE](https://www.figma.com/file/tpGf8Cv5AVNWfl29J3KKCk/Cryptocurrency-Landing-Page-Community)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
