@@ -1,9 +1,10 @@
-# React Cryptocurrency landing page.
+# React Cryptocurrency API landing page.
 
-![Digital Agency GIF](./src/assets/gif/appPreview.gif)
+![Cryptocurrency GIF](./src/assets/gif/appPreview.gif)
 
 
 This project was made by following Component Driven User Interface. Atomic Design.
+Planning to add converter.
 
 Link to the design [HERE](https://www.figma.com/file/tpGf8Cv5AVNWfl29J3KKCk/Cryptocurrency-Landing-Page-Community)
 
