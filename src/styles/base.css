@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Nunito+Sans:wght@400;600;700;800&family=Raleway:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.4;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(-45deg, #2c614d, #050404, #111a3b, #2CD095);
+}
+
+:root {
+  --primary: #3c68f8;
+  --background: #f5f8ff;
+  --buttonBackground: linear-gradient(225deg, #18C8FF 14.89%, #933FFE 85.85%) 
+}
+
+a {
+  text-decoration: none;
+}
